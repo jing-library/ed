@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: The Elements of Style
+title: Use definite, specific, concrete language
 author: William Strunk Jr. and E.B. White
 publication-data: 2007
 source: "Strunk, William. The elements of style. Penguin, 2007."
