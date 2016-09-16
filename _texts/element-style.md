@@ -1,3 +1,11 @@
+---
+layout: narrative
+title: The Elements of Style
+author: William Strunk Jr. and E.B. White
+publication-data: 2007
+source: "Strunk, William. The elements of style. Penguin, 2007."
+---
+
 P R I N C I P L ES OF COM POSITION 21
 
 
