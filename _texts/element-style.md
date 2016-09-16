@@ -6,10 +6,8 @@ publication-data: 2007
 source: "Strunk, William. The elements of style. Penguin, 2007."
 ---
 
-P R I N C I P L ES OF COM POSITION 21
+PRINCIPLES OF COMPOSITION       21
 
-
-# 16. Use definite, specific, concrete language.
 
 Prefer the specific to the general, the definite to the vague, the concrete to the abstract.
 
